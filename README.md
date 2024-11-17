@@ -12,7 +12,7 @@ This project involves the analysis of supply chain data to extract actionable in
 - Total Profits
 - Total Customers 
 - Profit Per Order
-- Averge Shipping Days for an order
+- Average Shipping Days for an order
 
 ## Geographic Analysis:
 - Profits across the markets
